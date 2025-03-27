@@ -23,8 +23,8 @@ A powerful yet user-friendly Python script designed to optimize and enhance your
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/windows11-debloater.git
-cd windows11-debloater
+git clone https://github.com/moruscerberus/Windows11-Debloater.git
+cd Windows11-Debloater
 pip install tqdm
 ```
 
